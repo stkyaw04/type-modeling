@@ -1,0 +1,14 @@
+I wasn't able to compare my solution to yours. When I opened the GitHub
+compare links, I couldn't see your solution (the page didn't show a diff
+for me, possibly because of a permissions issue or my fork's setup). Since
+I couldn't see the differences, I can't say how similar or different our
+solutions are. I'd be happy to look at it together if that's possible.
+
+Even without the comparison, I had a lot of fun with this assignment, especially learning about the MRO (method resolution order). I didn't
+really understand it in class, but working through this homework really consolidated it!
+Having to actually trace which method gets called, and in what order, made the idea much more concrete and it 
+turned out to be less mysterious than I expected, and I now see why
+languages need a precise rule for it.
+
+Another thing I really appreciated was implementing the type checker and it made me appreciate the error messages I get from the compiler!
+Deciding what to report and how to report it was interesting and definitely a design problem in its own right!
